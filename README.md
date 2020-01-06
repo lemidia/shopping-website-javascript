@@ -1,3 +1,3 @@
-# Shopping web site - cart item add using javascipt
+# Shopping web site - cart item using javascipt
 
 - ADD ITEMS TO CART JAVASCRIPT PROJECT
